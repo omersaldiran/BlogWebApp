@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/DotnetMVC/DotnetMVC.csproj": {}
+    "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj": {}
   },
   "projects": {
-    "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/DotnetMVC/DotnetMVC.csproj": {
+    "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/DotnetMVC/DotnetMVC.csproj",
+        "projectUniqueName": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
         "projectName": "DotnetMVC",
-        "projectPath": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/DotnetMVC/DotnetMVC.csproj",
-        "packagesPath": "/Users/omersaldiran/.nuget/packages/",
-        "outputPath": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/DotnetMVC/obj/",
+        "projectPath": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
+        "packagesPath": "/home/gm/.nuget/packages/",
+        "outputPath": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/omersaldiran/.nuget/NuGet/NuGet.Config"
+          "/home/gm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }

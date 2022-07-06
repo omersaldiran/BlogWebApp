@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EiSvzvK3YUsdk8SpjvkyFhiAJWr9i6gADZu+cSI+/k01Ixucav3hRXPskeUueWAfKAhQQaz2q9Y+S2OkFkQ73A==",
+  "dgSpecHash": "zWEALKT2MKGxWIvOLuAey+k4BkvRzvNHLkJ8lmjhkUSGnfaIpXVpVRfoqWSw2idJjZptcIVA6JL/+clAkexgfg==",
   "success": true,
-  "projectFilePath": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/DotnetMVC/DotnetMVC.csproj",
+  "projectFilePath": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
