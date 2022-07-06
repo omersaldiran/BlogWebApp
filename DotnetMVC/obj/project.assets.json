@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/gm/.nuget/packages/": {}
+    "/Users/omersaldiran/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
+      "projectUniqueName": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
       "projectName": "DotnetMVC",
-      "projectPath": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
-      "packagesPath": "/home/gm/.nuget/packages/",
-      "outputPath": "/home/gm/dotnet/BlogMVC/BlogWebApp/DotnetMVC/obj/",
+      "projectPath": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/BlogWebApp/DotnetMVC/DotnetMVC.csproj",
+      "packagesPath": "/Users/omersaldiran/.nuget/packages/",
+      "outputPath": "/Users/omersaldiran/Documents/Dotnet/DotnetWebProject/BlogWebApp/DotnetMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/gm/.nuget/NuGet/NuGet.Config"
+        "/Users/omersaldiran/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
